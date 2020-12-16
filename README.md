@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoopGlitch26&layout=compact?hide=C#)](https://github.com/LoopGlitch26/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=loopglitch26)](https://github.com/LoopGlitch26/github-readme-stats)
 
 
