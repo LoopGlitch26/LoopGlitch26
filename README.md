@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Bravish's's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26)](https://github.com/loopglicth26/github-readme-stats)
 ![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true)
 
