@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **LoopGlitch26/LoopGlitch26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&show_icons=true&theme=radical)
-[![Bravish's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LoopGlitch26)](https://github.com/LoopGlitch26/github-readme-stats)
+![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&show_icons=true&theme=tokyonight)
 
 
