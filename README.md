@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LoopGlitch26&hide=C%23&langs_count=15)](https://github.com/LoopGlitch26/github-readme-stats)
