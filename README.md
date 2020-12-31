@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/github/followers/LoopGlitch26?style=social)
 ![](https://img.shields.io/twitter/url?label=twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FBravish_Ghosh%3Fs%3D09)
 
-![My Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=LoopGlitch26&theme=tokyonight)
+
 
 ![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
