@@ -13,9 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src = "https://user-images.githubusercontent.com/53336715/82981916-aebd9a80-a00a-11ea-94eb-d119014f8f8f.png" height = "550" align = "right"> 
-
-
-
-
 ![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
