@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 -->
 <img src = "https://user-images.githubusercontent.com/53336715/82981916-aebd9a80-a00a-11ea-94eb-d119014f8f8f.png" height = "550" align = "right"> 
 
-![](https://img.shields.io/github/followers/LoopGlitch26?style=social)
 
 
 
