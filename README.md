@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Python-Mini-Projects)](https://github.com/LoopGlitch26/Python-Mini-Projects)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Simple-Face-Detection-Project)](https://github.com/LoopGlitch26/Simple-Face-Detection-Project)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Machine-Learning-Projects)](https://github.com/LoopGlitch26/Machine-Learning-Projects)
-[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=CSES-Problems)](https://github.com/LoopGlitch26/CSES-Problems)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=testyextension)](https://github.com/LoopGlitch26/testyextension)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=PicsCall)](https://github.com/LoopGlitch26/PicsCall)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Doc-Doctor-VSC-Extension)](https://github.com/LoopGlitch26/Doc-Doctor-VSC-Extension)
