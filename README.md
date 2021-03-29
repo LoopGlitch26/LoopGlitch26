@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=julia-simple)](https://github.com/LoopGlitch26/Julia-Simple)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Python-Mini-Projects)](https://github.com/LoopGlitch26/Python-Mini-Projects)
+[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=18337)](https://github.com/LoopGlitch26/18337)
+[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Julia-Programming-Projects)](https://github.com/LoopGlitch26/Julia-Programming-Projects)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Simple-Face-Detection-Project)](https://github.com/LoopGlitch26/Simple-Face-Detection-Project)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Machine-Learning-Projects)](https://github.com/LoopGlitch26/Machine-Learning-Projects)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=testyextension)](https://github.com/LoopGlitch26/testyextension)
