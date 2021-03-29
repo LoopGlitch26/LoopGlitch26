@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
+
+
+# 
+
+
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=julia-simple)](https://github.com/LoopGlitch26/Julia-Simple)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Python-Mini-Projects)](https://github.com/LoopGlitch26/Python-Mini-Projects)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Simple-Face-Detection-Project)](https://github.com/LoopGlitch26/Simple-Face-Detection-Project)
