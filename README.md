@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 # 
 
-
+[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=julia-simple)](https://github.com/LoopGlitch26/Twitter-Bot-Custom)
+[![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=julia-simple)](https://github.com/LoopGlitch26/online-complier)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=julia-simple)](https://github.com/LoopGlitch26/Julia-Simple)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=Python-Mini-Projects)](https://github.com/LoopGlitch26/Python-Mini-Projects)
 [![Julia Simpke](https://github-readme-stats.vercel.app/api/pin/?username=LoopGlitch26&repo=18337)](https://github.com/LoopGlitch26/18337)
