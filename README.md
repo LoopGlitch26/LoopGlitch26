@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 -->
 ![Bravish's github stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
 
-<p align="center"><img src="https://github.com/LoopGlitch26/LoopGlitch26/blob/master/github-metrics.svg">
+<p align="center"><img src="https://github.com/LoopGlitch26/LoopGlitch26/blob/main/github-metrics.svg">
   
-![snake gif](https://github.com/LoopGlitch26/LoopGlitch26/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LoopGlitch26/LoopGlitch26/blob/main/github-contribution-grid-snake.gif)
