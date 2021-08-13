@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight">
 
 <p align="center"><img src="https://github.com/LoopGlitch26/LoopGlitch26/blob/main/github-metrics.svg">
