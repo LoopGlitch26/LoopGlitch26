@@ -14,9 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoopGlitch26&theme=tokyonight)](https://git.io/streak-stats)
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight">
 
+<p align="center">
+    <a href="https://git.io/streak-stats">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=LoopGlitch26&theme=tokyonight"/>
+    </a>
+</p>
   
 <p align="center"><img src="https://github.com/LoopGlitch26/LoopGlitch26/blob/main/github-metrics.svg">
   
