@@ -30,11 +30,3 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<script charset="utf-8" type="text/javascript" src="//js.hsforms.net/forms/shell.js"></script>
-<script>
-  hbspt.forms.create({
-	region: "na1",
-	portalId: "21668169",
-	formId: "ce52de28-7311-416c-84bc-df544f79a08e"
-});
-</script>
