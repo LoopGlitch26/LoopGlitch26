@@ -1,4 +1,3 @@
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight">
 
 <p align="center">
@@ -15,6 +14,4 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<iframe src="https://github.com/sponsors/LoopGlitch26/button" title="Sponsor LoopGlitch26" height="35" width="116" style="border: 0;"></iframe>
-
-<iframe src="https://github.com/sponsors/LoopGlitch26/card" title="Sponsor LoopGlitch26" height="225" width="600" style="border: 0;"></iframe>
+[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/LoopGlitch26/button)
