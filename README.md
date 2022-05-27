@@ -1,19 +1,4 @@
 
-<!--
-**LoopGlitch26/LoopGlitch26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=LoopGlitch26&count_private=true&include_all_commits&show_icons=true&theme=tokyonight">
 
 <p align="center">
@@ -30,3 +15,6 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<iframe src="https://github.com/sponsors/LoopGlitch26/button" title="Sponsor LoopGlitch26" height="35" width="116" style="border: 0;"></iframe>
+
+<iframe src="https://github.com/sponsors/LoopGlitch26/card" title="Sponsor LoopGlitch26" height="225" width="600" style="border: 0;"></iframe>
