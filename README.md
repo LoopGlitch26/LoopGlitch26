@@ -14,4 +14,3 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-[![Github Sponsorship](img/github_sponsor_btn.svg)](https://github.com/sponsors/LoopGlitch26/button)
