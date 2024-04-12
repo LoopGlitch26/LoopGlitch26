@@ -8,8 +8,6 @@
   
 <p align="center"><img src="https://github.com/LoopGlitch26/LoopGlitch26/blob/main/github-metrics.svg">
   
-<p align="center"><img src= "https://github.com/LoopGlitch26/LoopGlitch26/blob/output/github-contribution-grid-snake.gif">
-
   
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
