@@ -4,7 +4,6 @@
     </a>
 </p>
   
-<p align="center"><img src="https://github.com/LoopGlitch26/LoopGlitch26/blob/main/github-metrics.svg">
   
   
 <!--START_SECTION:waka-->
